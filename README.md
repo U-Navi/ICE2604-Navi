@@ -1,6 +1,5 @@
 ## 传送门：https://github.com/huskydoge/SJTU-Classroom
-
----
+<br>
 
 ## 代码运行操作指南
 
