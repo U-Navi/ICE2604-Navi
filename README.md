@@ -1,4 +1,5 @@
-## 传送门：https://github.com/huskydoge/SJTU-Classroom
+## 传送门
+[https://github.com/huskydoge/SJTU-Classroom](https://github.com/huskydoge/SJTU-Classroom)
 <br>
 <!-- 芝士雪豹 -->
 ## 代码运行操作指南
